@@ -39,3 +39,6 @@ I created this repository with the help of my friend 'Amey Anand' in 'PyQuiz.py'
 
 ## Was this repository helpful?
 Star this repository if you found it helpful. If you found any bugs that I did not or have an enhancement idea, put it up in the [Issues](https://github.com/VismayaAtreya/Python-Quiz-Application/issues) tab.
+
+## Check out my other reporitories too!
+https://github.com/VismayaAtreya/Virtual-Assistant-Python3
