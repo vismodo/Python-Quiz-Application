@@ -2,7 +2,6 @@ from tkinter import*
 from PIL import ImageTk, Image
 import os
 import datetime as dt
-detailed_report = ["Question | Answer | Correct Answer | Points"]
 score = []
 questions = ['How do you print "Hello" in Python?',
              'A GUI window can be created in python with the _______ module',
