@@ -87,6 +87,5 @@ def contin4():
 img = ImageTk.PhotoImage(Image.open("Greet.jpg"))
 panel = Label(window, image = img)
 panel.pack(side = "top", fill = "both", expand = "yes")
-button = Button(window,padx=14,pady=14,bd=4,bg='orange',command=lambda:cont(),text="Continue >>>",font=("Courier New",16,'bold'))
-button.pack()
+button = Button(window,padx=14,pady=14,bd=4,bg='orange',command=lambda:cont(),text="Continue >>>",font=("Courier New",16,'bold').pack()
 window.mainloop()
