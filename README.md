@@ -1,7 +1,7 @@
 # Python-Quiz-Application
 This repository will help you run a cross-platform quiz software with python 3 which can be used for assessments and tests in the time of isolation.
 ## Demonstration:
-![Demo](https://github.com/VismayaAtreya/Python-Quiz-Application/blob/master/PyQuiz-Demonstartion.gif)
+![Demo](https://github.com/VismayaAtreya/Python-Quiz-Application/blob/master/PyQuiz-Demonstration.gif)
 ## Getting Started
 1. Clone the repository and extract the '.zip' file and keep all its contents in the same folder.
 
