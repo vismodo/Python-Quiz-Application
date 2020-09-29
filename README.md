@@ -37,7 +37,7 @@ This repository will help you run a cross-platform quiz software with python 3 w
 If you want to add more questions or change them, go to line 6 and 11 of 'PyQuiz.py' and you will find two lists, the questions and the answers. Youc an change these, but remember that for every question's index, there should be an answer with the same index in the 'answers'.
 
 ## Authors
-I created this repository with the help of my friend 'Amey Anand' in 'PyQuiz.py'
+I created this repository with the help of [Py08](https://github.com/Py08) in 'PyQuiz.py'
 
 ## Was this repository helpful?
 Star this repository if you found it helpful. If you found any bugs that I did not or have an enhancement idea, put it up in the [Issues](https://github.com/VismayaAtreya/Python-Quiz-Application/issues) tab.
