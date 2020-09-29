@@ -3,7 +3,7 @@ This repository will help you run a cross-platform quiz software with python 3 w
 ## Demonstration:
 ![Demo](https://github.com/VismayaAtreya/Python-Quiz-Application/blob/master/PyQuiz-Demonstration.gif)
 ## Getting Started
-1. Clone the repository and extract the '.zip' file and keep all its contents in the same folder.
+1. Clone the repository and extract the '.zip' file and keep all its contents in the same folder. or [![Run on Repl.it](https://repl.it/badge/github/vismodo/Python-Quiz-Application)](https://repl.it/github/vismodo/Python-Quiz-Application)
 
 2. Launch 'Python 3.8 Shell'(also called IDLE).
 
@@ -13,7 +13,7 @@ This repository will help you run a cross-platform quiz software with python 3 w
 
 ![alt_text](https://github.com/VismayaAtreya/Python-Quiz-Application/blob/master/User%20Guide%20Images/IMG%202.png)
 
-4. After opening the file, click on Run > Run Module.
+4. After opening the file, click on Run > Run Module. or [![Run on Repl.it](https://repl.it/badge/github/vismodo/Python-Quiz-Application)](https://repl.it/github/vismodo/Python-Quiz-Application)
 
 ![alt_text](https://github.com/VismayaAtreya/Python-Quiz-Application/blob/master/User%20Guide%20Images/IMG%203.png)
 
