@@ -1,0 +1,4 @@
+mcq,What kind of a language is Python,Compiler;Neither;Interpreter,Interpreter,0.5
+sq,Who Invented Python?,,Guido Van Rossum,1.0
+mcq,Which of these modules is used for web scraping?(Choose Any One),PyGame;Numpy;requests;pandas;urllib,urllib;requests,1.0
+lq,What is the tkinter module used for?,,,2.0
