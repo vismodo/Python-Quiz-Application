@@ -15,6 +15,9 @@ Why don't you make your own quiz with the syntax of the pre-loaded CSV Quiz file
 ## Authors
 I created this repository with the help of [Py08](https://github.com/Py08)
 
+## Don't Have Python Installed?
+Don't have python installed to run this program? No Worries! Just run the .exe file.
+
 ## Was this repository helpful?
 Star this repository if you found it helpful. If you found any bugs that have not been found or have an enhancement idea, put it up in the [Issues](https://github.com/VismayaAtreya/Python-Quiz-Application/issues) tab.
 
