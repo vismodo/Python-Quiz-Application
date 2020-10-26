@@ -19,3 +19,4 @@ I created this repository with the help of [Py08](https://github.com/Py08)
 Star this repository if you found it helpful. If you found any bugs that have not been found or have an enhancement idea, put it up in the [Issues](https://github.com/VismayaAtreya/Python-Quiz-Application/issues) tab.
 
 ## Check out my other reporitories too!
+
